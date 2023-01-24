@@ -1,6 +1,7 @@
 Estas son las sefiras
-shore
-aleph
-bet
-ghimel
-Dalet
+Keter
+Jojma
+Bina
+zeranpi
+maljut
+
