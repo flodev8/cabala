@@ -2,6 +2,7 @@ Estas son las sefiras
 Keter
 Jojma
 Bina
-zeranpi
+zeranpi { tiferet, netzaj, hod, dasot, yesod  }
 maljut
+
 
